@@ -1,7 +1,7 @@
 # Carter-Extended.js
 
 
-[Changelog](https://github.com/Neotastisch/carter-extended.js/blob/main/changelog.md)**
+[Changelog](https://github.com/Neotastisch/carter-extended.js/blob/main/changelog.md)
 
 
 
